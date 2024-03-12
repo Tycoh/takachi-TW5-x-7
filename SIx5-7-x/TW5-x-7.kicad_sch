@@ -46,14 +46,14 @@
     (property "Value" "MountingHole" (at 25.4 179.0446 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm" (at 21.8694 177.7746 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 21.8694 177.7746 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 21.8694 177.7746 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SIx5-7-x"
+      (project "TW5-x-7"
         (path "/b4c24110-5ce2-4b9b-89f1-7a788ee960b8"
           (reference "H1") (unit 1)
         )
@@ -70,14 +70,14 @@
     (property "Value" "MountingHole" (at 47.879 179.4256 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm" (at 44.3484 178.1556 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 44.3484 178.1556 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 44.3484 178.1556 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SIx5-7-x"
+      (project "TW5-x-7"
         (path "/b4c24110-5ce2-4b9b-89f1-7a788ee960b8"
           (reference "H3") (unit 1)
         )
@@ -94,14 +94,14 @@
     (property "Value" "MountingHole" (at 47.879 187.5536 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm" (at 44.3484 186.2836 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 44.3484 186.2836 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 44.3484 186.2836 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SIx5-7-x"
+      (project "TW5-x-7"
         (path "/b4c24110-5ce2-4b9b-89f1-7a788ee960b8"
           (reference "H4") (unit 1)
         )
@@ -118,14 +118,14 @@
     (property "Value" "MountingHole" (at 25.4 187.833 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.7mm" (at 21.8694 186.563 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2" (at 21.8694 186.563 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 21.8694 186.563 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "SIx5-7-x"
+      (project "TW5-x-7"
         (path "/b4c24110-5ce2-4b9b-89f1-7a788ee960b8"
           (reference "H2") (unit 1)
         )
